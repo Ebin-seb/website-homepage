@@ -9,9 +9,7 @@
     grid-template-rows:auto auto auto auto auto auto;
     gap:10px;
 }
-.container>div{
-    border:1px solid black;
-}
+
 .navbar{
     position:fixed;
     /* background:black; */
